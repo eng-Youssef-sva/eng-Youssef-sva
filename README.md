@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Typing Animation Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Youssef+Ahmed;Full-Stack+.NET+Developer;Building+Scalable+Web+Applications;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+SQL+Server" alt="Typing SVG" />
+  <!-- Neon Green Cyberpunk Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=200&section=header&text=Youssef%20Ahmed&fontSize=50&fontColor=000000&animation=twinkle" width="100%" />
 
+  <br/>
+
+  <!-- Neon Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;Building+Scalable+Web+Applications;C%23+%7C+ASP.NET+Core+%7C+Angular+%7C+SQL+Server" alt="Typing SVG" />
 
 </div>
-
-# Hey, I'm Youssef Ahmed 👋
-
-### 💻 Full-Stack .NET Developer | Information Systems Student
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> &nbsp;
@@ -52,4 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eng-Youssef-sva&show_icons=true&theme=tokyonight" alt="Youssef's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-Youssef-sva&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
-};
